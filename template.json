@@ -1,0 +1,35 @@
+{
+  "choices": [
+    {
+      "type": "🏢 Institutional Site",
+      "refs": ["institutional_1", "institutional_2"]
+    },
+    {
+      "type": "🔄 Dynamic Site",
+      "refs": ["dynamic_1", "dynamic_2"]
+    },
+    {
+      "type": "🛒 E-commerce",
+      "refs": ["ecommerce_1", "ecommerce_2"]
+    },
+    {
+      "type": "📄 One-Page Site",
+      "refs": ["onepage_1", "onepage_2"]
+    },
+    {
+      "type": "🌐 Portal",
+      "refs": ["portal_1", "portal_2"]
+    },
+    {
+      "type": "🔥 Hotsite",
+      "refs": ["hotsite_1", "hotsite_2"]
+    },
+    {
+      "type": "📱 Landing Page",
+      "refs": ["landingpage_1", "landingpage_2"]
+    },
+    {
+      "type": "🚪 Exit"
+    }
+  ]
+}
